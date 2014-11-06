@@ -12,3 +12,4 @@ gem 'jquery-ui-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'spring',        group: :development
+gem 'tzinfo-data', platforms: [:mingw, :mswin]

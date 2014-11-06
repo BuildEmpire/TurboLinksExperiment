@@ -58,6 +58,7 @@
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, ruby-2.1.4-p265) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="turbolinks (v2.5.1, ruby-2.1.4-p265) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.2, ruby-2.1.4-p265) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo-data (v1.2014.9, ruby-2.1.4-p265) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v2.5.3, ruby-2.1.4-p265) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
